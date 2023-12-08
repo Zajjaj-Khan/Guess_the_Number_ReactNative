@@ -35,7 +35,8 @@ Start the server
 
 
 
-## Demo
 
-![Demo Video](https://github.com/Zajjaj-Khan/Guess_the_Number_ReactNative.git/blob/master/assets/Video/Demo.mp4)
+## Demo Video
+
+https://github.com/Zajjaj-Khan/Guess_the_Number_ReactNative/assets/81627562/236dfc21-aafe-41d2-b1d1-be024354dab5
 
