@@ -1,7 +1,7 @@
 
 # Guess a Number 
 
-A short Gmae to enhance my React Native skills, and to improve the userInterfance ,Learn alot more new Techeniques and Technologies. 
+A short Gmae to enhance my React Native skills, and improve the user interface, Learn many more new techniques and Technologies. 
 
 
 
@@ -37,5 +37,5 @@ Start the server
 
 ## Demo
 
-![Demo Video](https://github.com/Zajjaj-Khan/Guess_the_Number_ReactNative.git/blob/master/assets/Video/Demo.mp4?raw=true)
+![Demo Video](https://github.com/Zajjaj-Khan/Guess_the_Number_ReactNative.git/blob/master/assets/Video/Demo.mp4)
 
